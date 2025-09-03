@@ -19,7 +19,7 @@ data-paths: ["data"]
 macro-paths: ["macros"]
 snapshot-paths: ["snapshots"]
 # model-paths: ["models"]
-seed-paths: ["seeds"]
+# seed-paths: ["seeds"]
 
 
 target-path: "target"  # directory which will store compiled SQL files
